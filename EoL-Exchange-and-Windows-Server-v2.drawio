@@ -1,0 +1,135 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Page-1" id="06OYxbyU0FTtFBaFGMxe">
+    <mxGraphModel dx="1211" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lsNBCozxZIlUyy1RHoim-41" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Exchange Upgrade Paths&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;horizontal=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="38.5" y="620" width="1060" height="910" as="geometry" />
+        </mxCell>
+        <mxCell id="lsNBCozxZIlUyy1RHoim-2" value="Windows&amp;nbsp;&lt;div&gt;Server 2016&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Mainstream End Date 11.01.2022&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Extended Support 12.01.2027&lt;/div&gt;&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/windows_server_2.svg;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="110" y="1288" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lsNBCozxZIlUyy1RHoim-4" value="Exchange 2019 CU14&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Mainstream End Daten 09.01.2024&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Extended Support 14.10.2025&lt;/div&gt;&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.exchange_server;" parent="1" vertex="1">
+          <mxGeometry x="540" y="884" width="57" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="lsNBCozxZIlUyy1RHoim-6" value="Windows&amp;nbsp;&lt;div&gt;Server 2022&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;&quot;&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;Mainstream End Daten 13&lt;/span&gt;&lt;span style=&quot;&quot;&gt;.10.2026&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;Extended Support 14.10.2031&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/windows_server_2.svg;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="540" y="1004" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lsNBCozxZIlUyy1RHoim-11" value="Exchange Subscription Edition&lt;br&gt;Release &lt;u&gt;Early&lt;/u&gt; Q3 2025" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.exchange_server;" parent="1" vertex="1">
+          <mxGeometry x="942" y="884" width="57" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="lsNBCozxZIlUyy1RHoim-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lsNBCozxZIlUyy1RHoim-12" target="lsNBCozxZIlUyy1RHoim-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="237" y="911.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lsNBCozxZIlUyy1RHoim-12" value="Exchange 2013&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Mainstream End Date 10.04.2018&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Extended Support 11.04.2023&lt;/div&gt;&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.exchange_server;" parent="1" vertex="1">
+          <mxGeometry x="100" y="884" width="57" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="lsNBCozxZIlUyy1RHoim-16" value="Exchange 2016&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Mainstream End Date 13.10.2020&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Extended Support 14.10.2025&lt;/div&gt;&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.exchange_server;" parent="1" vertex="1">
+          <mxGeometry x="99" y="1004" width="57" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="lsNBCozxZIlUyy1RHoim-21" value="Exchange 2019 &amp;lt;CU13&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Mainstream End Date 09.01.2024&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Extended Support 14.10.2025&lt;/div&gt;&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.exchange_server;" parent="1" vertex="1">
+          <mxGeometry x="102" y="1134" width="57" height="55" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;a href=&quot;https://techcommunity.microsoft.com/t5/exchange-team-blog/exchange-server-roadmap-update/ba-p/4132742&quot;&gt;Source:&amp;nbsp;Exchange Server Roadmap Update&amp;nbsp;&lt;/a&gt;" id="lsNBCozxZIlUyy1RHoim-30">
+          <mxCell style="text;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;html=1;" parent="1" vertex="1">
+            <mxGeometry x="398.5" y="1550" width="340" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="lsNBCozxZIlUyy1RHoim-34" value="Windows&amp;nbsp;&lt;div&gt;Server 2025&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;&quot;&gt;&lt;div&gt;Released 01.11.24&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/windows_server_2.svg;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="740" y="1004" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lsNBCozxZIlUyy1RHoim-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lsNBCozxZIlUyy1RHoim-49" target="lsNBCozxZIlUyy1RHoim-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="577" y="911" as="sourcePoint" />
+            <mxPoint x="960" y="911" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lsNBCozxZIlUyy1RHoim-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="1032" as="sourcePoint" />
+            <mxPoint x="320" y="914" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lsNBCozxZIlUyy1RHoim-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="156" y="1171" as="sourcePoint" />
+            <mxPoint x="420" y="914" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lsNBCozxZIlUyy1RHoim-45" value="Windows&amp;nbsp;&lt;div&gt;Server 2019&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Mainstream End Daten&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;09.01.2024&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Extended Support 09.01.2029&lt;br&gt;&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/windows_server_2.svg;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="540" y="1139" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lsNBCozxZIlUyy1RHoim-47" value="Windows&amp;nbsp;&lt;div&gt;Server 2022&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;&quot;&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;Mainstream End Daten 13&lt;/span&gt;&lt;span style=&quot;&quot;&gt;.10.2026&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;Extended Support 14.10.2031&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/windows_server_2.svg;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="947.5" y="1138.5" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lsNBCozxZIlUyy1RHoim-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="lsNBCozxZIlUyy1RHoim-49" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="577" y="911" as="sourcePoint" />
+            <mxPoint x="942" y="911" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lsNBCozxZIlUyy1RHoim-49" value="Exchange 2019 CU14 or CU15&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Mainstream End Daten 09.01.2024&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Extended Support 14.10.2025&lt;/div&gt;&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.exchange_server;" parent="1" vertex="1">
+          <mxGeometry x="740" y="884" width="57" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="lsNBCozxZIlUyy1RHoim-51" value="Windows&amp;nbsp;&lt;div&gt;Server 2022&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;&quot;&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;Mainstream End Daten 13&lt;/span&gt;&lt;span style=&quot;&quot;&gt;.10.2026&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;Extended Support 14.10.2031&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/windows_server_2.svg;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="741.5" y="1139" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lsNBCozxZIlUyy1RHoim-52" value="Windows&amp;nbsp;&lt;div&gt;Server 2019&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Mainstream End Daten&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;09.01.2024&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Extended Support 09.01.2029&lt;br&gt;&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/windows_server_2.svg;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="745" y="1283" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lsNBCozxZIlUyy1RHoim-53" value="Windows&amp;nbsp;&lt;div&gt;Server 2025&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;&quot;&gt;&lt;div&gt;Released 01.11.24&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/windows_server_2.svg;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="943.5" y="1004" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lsNBCozxZIlUyy1RHoim-54" value="Windows&amp;nbsp;&lt;div&gt;Server 2019&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Mainstream End Daten&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;09.01.2024&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Extended Support 09.01.2029&lt;br&gt;&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/windows_server_2.svg;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="943.5" y="1283" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lsNBCozxZIlUyy1RHoim-56" value="Exchange Subscription Edition&lt;br&gt;Release &lt;u&gt;Early&lt;/u&gt; Q3 2025" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.exchange_server;" parent="1" vertex="1">
+          <mxGeometry x="943" y="740" width="57" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="lsNBCozxZIlUyy1RHoim-57" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=elbowEdgeStyle;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="555" y="880" as="sourcePoint" />
+            <mxPoint x="944" y="767.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="555" y="840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lsNBCozxZIlUyy1RHoim-58" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="90" y="1283" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lsNBCozxZIlUyy1RHoim-60" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.049;entryY=0.54;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="lsNBCozxZIlUyy1RHoim-61" target="lsNBCozxZIlUyy1RHoim-52" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="1130" as="sourcePoint" />
+            <mxPoint x="430" y="1080" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lsNBCozxZIlUyy1RHoim-62" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.049;entryY=0.54;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="lsNBCozxZIlUyy1RHoim-2" target="lsNBCozxZIlUyy1RHoim-61" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="1309" as="sourcePoint" />
+            <mxPoint x="747" y="1310" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lsNBCozxZIlUyy1RHoim-63" value="&lt;p style=&quot;font-size: 13px;&quot;&gt;No Support for&lt;br&gt;OS In Place Upgrades&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="lsNBCozxZIlUyy1RHoim-62" vertex="1" connectable="0">
+          <mxGeometry x="-0.2054" y="2" relative="1" as="geometry">
+            <mxPoint x="178" y="60" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lsNBCozxZIlUyy1RHoim-61" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="390" y="1279" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lsNBCozxZIlUyy1RHoim-64" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/active_directory.svg;" parent="1" vertex="1">
+          <mxGeometry x="210.88" y="1420" width="94.12" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lsNBCozxZIlUyy1RHoim-65" value="&#xa;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: SegoeUI, Lato, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;There are no Active Directory schema changes beyond those in Exchange Server 2019, and we will continue to support the Windows Server 2012 R2 forest functional level.&lt;/span&gt;&#xa;&#xa;" style="text;html=1;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;strokeColor=default;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="305" y="1420" width="510" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
